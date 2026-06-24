@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khadija Sajid</h1>
-<h3 align="center">AI/ML Developer | Backend Engineering & Cloud Solutions</h3>
+<h3 align="center">AI & Cloud Systems Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ks-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ks-exe" />
@@ -14,6 +14,7 @@ I am a Developer focused on constructing intelligent systems, data-driven applic
 *   **Core Focus:** Applied Artificial Intelligence, Machine Learning workflows, and cloud architecture.
 *   **Key Projects:** 
     *   **NeuroPath AI:** An LLM-driven platform recognized as a Global Top 50 Finalist in the AWS 10,000 AIdeas Competition.
+*   **Leadership:** Official Lead for the AWS Student Builder Groups.
 *   **Contact:** [khadijasajid280@gmail.com](mailto:khadijasajid280@gmail.com)
 
 ---
