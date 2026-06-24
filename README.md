@@ -7,7 +7,7 @@
 
 ---
 
-### Professional Profile
+### About Me
 
 I am an AI/ML Practitioner and Developer focused on engineering scalable, production-ready systems, intelligent agentic workflows, and robust cloud-native backends. I prioritize strict architectural intent and technical rigor to build self-service analytics and intelligent pipeline platforms.
 
@@ -59,6 +59,5 @@ I am an AI/ML Practitioner and Developer focused on engineering scalable, produc
 
 <p align="left">
   <a href="https://linkedin.com/in/khadija-sajid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khadija Sajid LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/khadija-sajid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khadija-sajid LeetCode" height="30" width="40" /></a>
   <a href="https://twitter.com/@khadijasajid280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khadijasajid280 Twitter" height="30" width="40" /></a>
 </p>
