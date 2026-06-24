@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khadija Sajid</h1>
-<h3 align="center">Computer Science Student | Aspiring AI/ML Developer</h3>
+<h3 align="center">AI/ML Developer | Backend Engineering & Cloud Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ks-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ks-exe" />
@@ -7,19 +7,18 @@
 
 ---
 
-### About Me
+### Professional Profile
 
-I am a Computer Science student focused on developing my skills in Artificial Intelligence, Python, and backend technologies. I am passionate about problem-solving, exploring cloud fundamentals, and building impactful community spaces for tech students.
+I am a Developer focused on constructing intelligent systems, data-driven applications, and robust cloud backends. I combine technical implementation with a commitment to clean code and intentional architecture.
 
-*   **Current Focus:** Advancing my knowledge in AI/ML fundamentals, building practical data/coding projects, and expanding my modern web development skills.
+*   **Core Focus:** Applied Artificial Intelligence, Machine Learning workflows, and cloud architecture.
 *   **Key Projects:** 
     *   **NeuroPath AI:** An LLM-driven platform recognized as a Global Top 50 Finalist in the AWS 10,000 AIdeas Competition.
-*   **Leadership:** Official Lead for the AWS Student Builder Groups & Microsoft Student Ambassador.
 *   **Contact:** [khadijasajid280@gmail.com](mailto:khadijasajid280@gmail.com)
 
 ---
 
-### Languages and Tools
+### Technical Skills
 
 #### Programming & Data Science
 <p align="left">
@@ -50,6 +49,5 @@ I am a Computer Science student focused on developing my skills in Artificial In
 
 <p align="left">
   <a href="https://linkedin.com/in/khadija-sajid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khadija Sajid LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/khadija-sajid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khadija-sajid LeetCode" height="30" width="40" /></a>
   <a href="https://twitter.com/@khadijasajid280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khadijasajid280 Twitter" height="30" width="40" /></a>
 </p>
