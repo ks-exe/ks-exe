@@ -7,8 +7,7 @@
 
 ---
 
-### Professional Profile
-
+### About Me
 I am a Developer focused on constructing intelligent systems, data-driven applications, and robust cloud backends. I combine technical implementation with a commitment to clean code and intentional architecture.
 
 *   **Core Focus:** Applied Artificial Intelligence, Machine Learning workflows, and cloud architecture.
