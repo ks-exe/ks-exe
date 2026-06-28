@@ -34,11 +34,7 @@ I am a Developer focused on constructing intelligent systems, data-driven applic
 
 ---
 
-### Repository Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ks-exe&show_icons=true&locale=en&layout=compact&theme=visual_studio_" alt="ks-exe" />
-</p>
 
 ---
 
